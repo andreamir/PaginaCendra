@@ -48,7 +48,7 @@ Here we can see with our gifs, how I did it, and how do they work.
 ![foto](img/rwColeccio.png)
 ![foto](img/rwContacte.png)
 ![foto](img/rwHistoria.png)
-![foto](img/rwVideo.gif)
+![foto](img/video_coleccion.gif)
 
 ## Contact 
 
