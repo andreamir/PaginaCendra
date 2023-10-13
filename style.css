@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: rgb(199, 170, 170);
+    background-color: rgb(0, 0, 0);
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
     justify-content: space-between;
     padding: 10px;
     align-items: center;
-    background-color: rgb(22, 20, 20);
+    background-color: rgb(0, 0, 0);
 }
 a {
     all: unset;
@@ -30,7 +30,7 @@ h1 {
 }
 h2 {
     font-weight:bold;
-    font-size: 60px;
+    font-size: 40px;
 }
 p {
     padding: 7px;
@@ -43,6 +43,7 @@ footer {
     display: flex;
     justify-content: center;
 }
+
 .logo{
     height: 100%;
 }
@@ -65,7 +66,154 @@ margin: 10px;
     padding: 45px;
     overflow: auto;
 }
-.container {
+.h-container {
+    display: flex;
+    justify-content: center;
+    padding: 60px;
+}
+
+
+/* PÁGINA CONTACTO */
+
+.contact-container {
+    display: flex;
+    width: 1000px;
+    height: 800px;
+    background-color: rgb(47, 47, 47);
+
+}
+.contact-container > div {
+    width: 50%;
+}
+.img-contact-container {
+    height: 100%;
+    /* margin-left: 90px; */
+   
+}
+.c-container {
+    display: flex;
+    justify-content: center;
+    
+}
+.contact-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5px;
+    margin-top: 70px;
+    width: 100%;
+}
+
+.contact-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    width: 500px;
+    margin-top: 20px;
+}
+
+#fname {
+    background-color: rgb(47, 47, 47);
+    border: 1px solid white;
+    padding: 10px;
+    width: 90%;
+    box-sizing: border-box;
+}
+
+#email {
+    background-color: rgb(47, 47, 47);
+    border: 1px solid white;
+    padding: 10px;
+    width: 90%;
+    box-sizing: border-box;
+}
+#text {
+        background-color: rgb(47, 47, 47);
+        border: 1px solid white;
+        padding: 10px;
+        width: 90%;
+        box-sizing: border-box;
+    
+}
+#message {
+        background-color: rgb(47, 47, 47);
+        border: 1px solid white;
+        padding: 10px;
+        width: 90%;
+        box-sizing: border-box;
+}
+#submit {
+    background-color: rgb(47, 47, 47);
+    border: 1px solid white;
+    padding: 10px;  
+}
+/* REVISTES */
+.revistas-container {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+
+.revistas-imagenes-container {
+   
+    display: flex;
+    align-content:center;
+    justify-content: space-between;
+    width: 1350px;
+    height: 600px;
+    padding: 10px;
+    overflow: auto;
+    box-shadow: 5px 5px 10px rgb(21, 21, 21);
+}
+.revistas-imagenes-container img {
+    padding: 4px;
+}
+#h1-rev {
+    margin-top: 10px;
+    text-align: center;
+}
+
+#h2-rev {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.anys18 {
+display: flex;
+flex-direction: column;
+align-items: center;
+width: 1350px;
+padding: 5px;
+}
+.anys18 video {
+    width: 1000px;
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+}
+
+/* INDEX */
+
+.index-body {
+    background-image: url(/img/fondocendra.jpeg);
+
+}
+.index-container {
+    display: flex;
+    background-color: rgb(45, 45, 45);
+    background-opacity: 
+    flex-direction: column;
+    text-wrap: wrap;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    padding: 100px;
+    overflow: auto;
+}
+.i-container {
     display: flex;
     justify-content: center;
     padding: 60px;
