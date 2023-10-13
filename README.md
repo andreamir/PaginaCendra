@@ -33,7 +33,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/AndreaMir/PaginaCendra
+    git clone https://github.com/AndreaMir/PaginaWeb-RevistaCendra
     ```
 2. Then is easy to use, easy to tell how it works.
 
@@ -41,3 +41,21 @@ To get a local copy up and running follow these simple example steps.
 
 This project is under license of Andrea Mir.
 
+## Project's review and GIFS
+
+Here we can see with our gifs, how I did it, and how do they work.
+
+![foto](img/rwColeccio.png)
+![foto](img/rwContacte.png)
+![foto](img/rwHistoria.png)
+![foto](img/rwVideo.gif)
+
+## Contact 
+
+
+<p align="center" >You can ask me anything here</p>
+<p align="center" >Andrea Mir</p>
+</br>
+<p align="center">
+<a href = "mailto:andreamirolba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/andreamirolba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
